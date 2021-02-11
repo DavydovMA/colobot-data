@@ -98,6 +98,9 @@ CreateObject pos=-112.7;-160.5 dir=0.6 type=UraniumOre
 CreateObject pos=-106.8;-156.1 dir=1.2 type=UraniumOre
 CreateObject pos=-117.5;-176.0 dir=0.1 type=UraniumOre
 
+CreateObject pos=-49.3;-245.3 dir=1.5 type=RuinBaseCamp
+CreateObject pos=-59.5;-252.0 dir=1.3 type=RuinHeadCamp
+
 CreateObject pos=-111.3; 33.3 dir=0.9 type=Greenery19
 //CreateObject pos=-138.2; 28.2 dir=0.7 type=Greenery15
 CreateObject pos=-143.2; 30.2 dir=0.7 type=Greenery15
